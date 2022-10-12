@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{  
+	printf("the effect of\nis a newline,he said.");
+	return 0;
+ 
+}
